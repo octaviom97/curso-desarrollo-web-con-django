@@ -2,3 +2,5 @@
 Repositorio para el curso de desarrollo web con django
 
 Ivan López Martínez
+
+*Alejandro Arturo Palma Parra*
